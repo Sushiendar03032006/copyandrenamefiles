@@ -25,8 +25,15 @@ To copy all .csv and .xlsx files from a source folder to a destination folder an
 8.Run the workflow. All matching files will be copied to the destination folder with the current timestamp appended.
 ```
 # Workflow:
+![Screenshot 2025-05-09 101155](https://github.com/user-attachments/assets/b117f282-952d-43f7-986a-c35616b05a89)
+![Screenshot 2025-05-09 101206](https://github.com/user-attachments/assets/e21f2dcc-b37a-4f4f-b35e-40aaef18045b)
+![Screenshot 2025-05-09 101212](https://github.com/user-attachments/assets/2519fa7e-7ea8-45e8-8ddc-ac12bb7ace9b)
+
 
 # Output:
+![Screenshot 2025-05-09 101319](https://github.com/user-attachments/assets/3f2eba86-aa51-432f-849b-b0af1ac8695d)
+![Screenshot 2025-05-09 101332](https://github.com/user-attachments/assets/f159b42e-e9a3-40ae-b7ec-9b2d1f3f387a)
+![Screenshot 2025-05-09 101342](https://github.com/user-attachments/assets/775b69d5-7342-433e-959d-820f8b305cee)
 
 # Result:
 Each file from the source folder (with .csv or .xlsx extension) will be copied to the destination folder with a timestamp appended to its name.
